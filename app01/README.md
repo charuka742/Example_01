@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-***I would love to code but it takes more time for me to undersatand than others. So sad about my self.😥***
-dont be sad puth u will be okay.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
